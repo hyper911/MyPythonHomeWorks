@@ -1,6 +1,6 @@
 """Доробити клас свого банку
 (Додати ще деякі атрибути, та методи тощо)"""
-from idlelib.config_key import WHITESPACE_KEYS
+
 from uuid import uuid4
 
 
